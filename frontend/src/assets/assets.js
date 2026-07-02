@@ -10,12 +10,13 @@ import upload_icon from './upload_icon.png'
 import stripe_logo from './stripe_logo.png'
 import razorpay_logo from './razorpay_logo.png'
 import team1 from './photo/sanjeev.png'
-import team2 from './photo/sajal.png'
+// import team2 from './photo/sajal.png'
 import team3 from './photo/deepak.png'
 import team4 from './photo/ayush.png'
 import dark_light from './78.png' 
 import sky from './jj.svg'
 import lo from './photo/lo.svg'
+import team2 from './photo/raman.jpeg'
 export const assets = {
      
      team1,team2,team3,team4,

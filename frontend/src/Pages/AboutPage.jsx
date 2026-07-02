@@ -44,12 +44,12 @@ const AboutPage = () => {
     },
     {
       id: 2,
-      name: "Sajal",
+      name: "Raman Kumar",
       imageUrl: teamMember2,
       position: "Frontend Developer",
-      email: "sajal@eventzone.com",
+      email: "raman2511kumar@gmail.com",
      
-      linkedin: "https://linkedin.com/in/sajaldev",
+      linkedin: "https://www.linkedin.com/in/raman-kumar-webdev/",
       description: "Crafting intuitive and engaging user interfaces that make discovering and managing events a joy."
     },
     {

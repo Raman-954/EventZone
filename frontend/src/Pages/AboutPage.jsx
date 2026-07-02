@@ -4,7 +4,7 @@ import { useTheme } from '../context/ThemeContext';
 
 // Placeholder images for team members - replace with actual paths
 import teamMember1 from '../assets/photo/sanjeev.png';
-import teamMember2 from '../assets/photo/sajal.png';
+import teamMember2 from '../assets/photo/raman.jpeg';
 import teamMember3 from '../assets/photo/deepak.png';
 import teamMember4 from '../assets/photo/ayush.png';
 // Import the hero image
